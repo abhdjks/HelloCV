@@ -8,3 +8,5 @@ Linux学习笔记,cmake的学习与实践。
 语雀笔记：https://www.yuque.com/g/talentshow/llmylp/gxsbg4umqlspd1xg/collaborator/join?token=pwBYE39TN1bVZ8vi&source=doc_collaborator# 《Cmake学习》
 
 语雀笔记：https://www.yuque.com/g/talentshow/llmylp/vvga5sq5cgneka1z/collaborator/join?token=2tVfKdhuSdLqejE9&source=doc_collaborator# 《CMake实践》
+
+语雀笔记：https://www.yuque.com/g/talentshow/llmylp/ffrhzhnm2b4fd1yi/collaborator/join?token=5WHcq2be1pXxnxCW&source=doc_collaborator# 《LLM学习》
